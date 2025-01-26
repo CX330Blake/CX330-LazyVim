@@ -41,4 +41,10 @@ return {
       colorscheme = "dracula",
     },
   },
+
+  -- Smear-cursor
+  {
+    "sphamba/smear-cursor.nvim",
+    opts = {},
+  },
 }
